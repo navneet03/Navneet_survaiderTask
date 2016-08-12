@@ -29,6 +29,7 @@
   * On loading the page display all sentiment(positive, negative, neutral) of user reviews of the parent restaurant(i.e. sum of all units restaurant) in bar chart.
   * There are three button for three units restaurant
   * On click of unit restaurant display that units restaurant sentiments in bar chart with followed below user reviews and rating.
+  * Also on mouse over on bar chart shows the number of sentiment review.
 
 ##Implementation Overview:
 
