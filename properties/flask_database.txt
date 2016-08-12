@@ -1,0 +1,7 @@
+{
+'username':'navneet',
+'password':'navneet@ss',
+'DatabaseName': 'hotelReviews',
+'host': 'localhost',
+'port': '27017'
+}

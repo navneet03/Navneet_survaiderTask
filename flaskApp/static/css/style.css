@@ -1,0 +1,43 @@
+body{
+    color: #888888;
+    font-family: 'Bree Serif',serif;
+    font-size: 16px;
+   /* min-height: 1000px;*/
+}
+.form-group{position: relative;}
+
+ .navbar-custom {
+    background-color:#697997;
+    color:#000000;
+    border-radius:0;
+    height:30px;
+    <!--width: 100px;-->
+}
+.navbar-right{
+    margin-right:160px;
+ }
+
+#rating{
+   color:#EAD714;
+}
+#index{
+   color:#080801;
+}
+#para{
+   color:#1A5276;
+}
+
+#bar_chart{
+   margin-top:50px;
+ }
+#user_reviews{
+  margin-top:50px;
+}
+#parent{
+   height:50px;
+   width:200px;
+}
+#units1,#units2,#units3{
+   height:50px;
+   width:150px;
+}

@@ -1,0 +1,6 @@
+{
+'SQLALCHEMY_DATABASE_URI':'postgresql+psycopg2://aniket:aniketp@ss@localhost/bonhappetee',
+'username':'aniket',
+'password':'aniketp@ss',
+'foodDatabaseName':'bonhappetee2'
+}
